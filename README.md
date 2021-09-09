@@ -1,7 +1,6 @@
 <!---- 👋 Hi, I’m @icemelting
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- Website: https://gokulpm.com/
 - E-Mail: contact@gokulpm.com
 
 <!---
