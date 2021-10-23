@@ -1,2 +1,2 @@
 - Website: [gokulpm.com](https://gokulpm.com/)
-- E-Mail: contact@gokulpm.com
+- E-Mail: mail@gokulpm.com
